@@ -1,9 +1,9 @@
-import apple from '../../image/apple.jpg';
-import banana from '../../image/banana.jpg';
-import mango from '../../image/mango.jpg';
-import orange from '../../image/orange.jpg';
-import peach from '../../image/peach.jpg';
-import watermelon from '../../image/watermelon.jpg';
+import apple from '../image/apple.jpg';
+import banana from '../image/banana.jpg';
+import mango from '../image/mango.jpg';
+import orange from '../image/orange.jpg';
+import peach from '../image/peach.jpg';
+import watermelon from '../image/watermelon.jpg';
 
 const data = {
   product: [
